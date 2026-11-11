@@ -19,7 +19,7 @@ The code demonstrates:
 ## File list
 
 - `README.txt` — This file.
-- `immune_aging_demo_code.R` — Fully runnable demonstration script.
+- `immune_age_train_demo.R` — Fully runnable demonstration script.
 
 ## Requirements
 
@@ -34,7 +34,7 @@ install.packages("glmnet")
 
 ## Running the demo
 
-Open `immune_aging_demo_code.R` in R or RStudio and run the entire script.
+Open `immune_age_train_demo.R` in R or RStudio and run the entire script.
 
 The script will:
 
